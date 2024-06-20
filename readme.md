@@ -2,20 +2,18 @@
 
 ## 🛠️ Experiência Profissional 
 ### DivTech
-**Cargo:** Desenvolvedor/Programador  
+**Cargo:** Desenvolvedor  
 **Nível:** Estágio  
 **Período:** Maio(2021) - Maio(2022)  
 **Descrição:** Experiência em desenvolvimento de sistemas ASP.NET, abrangendo todo o ciclo de vida do projeto, desde a concepção e modelagem do banco de dados até a entrega final do produto.
 
 ### Gclaims
 **Cargo:** Desenvolvedor  
-**Nível:** Júnior  
 **Período:** Maio(2022) - Março(2024)  
 **Descrição:** Desenvolvimento de projetos que envolvem tecnologias .NET, Angular e ASP.NET. Minhas atribuições abrangem a construção de APIs e o desenvolvimento/manutenção de sistemas.
 
 ### Conder -> Produs
 **Cargo:** Desenvolvedor  
-**Nível:** Júnior  
 **Período:** Maio(2024) - Atual  
 **Descrição:** Desenvolvimento de projetos que envolvem tecnologias .NET, Angular e ASP.NET. Minhas atribuições abrangem a construção de APIs e o desenvolvimento/manutenção de sistemas.
 
