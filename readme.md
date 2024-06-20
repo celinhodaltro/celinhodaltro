@@ -14,7 +14,7 @@
 ### Conder -> Produs
 **Cargo:** Analista de sistemas 
 **Período:** Maio(2024) - Atual  
-**Descrição:** Desenvolvimento de projetos que envolvem tecnologias .NET, Angular e ASP.NET. Minhas atribuições abrangem a construção de APIs e o desenvolvimento/manutenção de sistemas.
+**Descrição:** Desenvolvimento em projetos relacionados á geoinformatica, suporte á projetos legados, refatoração e atualização de projetos.
 
 
 ## 🎓 Formação Acadêmica
