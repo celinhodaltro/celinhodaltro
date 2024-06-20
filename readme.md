@@ -34,3 +34,6 @@
 **Email:** celinhodaltro@gmail.com  
 **LinkedIn:** [linkedin.com/in/joaomarcelomarques](https://www.linkedin.com/in/joaomarcelomarques)  
 **Telefone:** 71 99283-4507
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/celinhodaltro/github-readme-stats)
+
