@@ -1,6 +1,6 @@
 # Olá! Eu sou João Marcelo Daltro Marques 👋
 
-## 🛠️ Experiência Profissional 
+## 🛠️ Experiência Profissional: 
 ### DivTech
 **Cargo:** Desenvolvedor (Estagio).
 **Período:** Maio(2021) - Maio(2022).  
@@ -17,13 +17,15 @@
 **Descrição:** Desenvolvimento em projetos relacionados á geoinformatica, suporte á projetos legados, refatoração e atualização de projetos.
 
 
-## 🔧 Habilidades
+## 🔧 Habilidades:
 - Desenvolvimento em C#
 - Desenvolvimento com Blazor, .NET e ASP.NET 
 - Construção de APIs
 - Desenvolvimento com Angular
 - Trabalho em equipe
 
+
+## 📊 Estatísticas do GitHub:
 [![Celinhodaltro's GitHub stats](https://github-readme-stats.vercel.app/api?username=celinhodaltro)](https://github.com/celinhodaltro/github-readme-stats)
 
 
