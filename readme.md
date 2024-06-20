@@ -29,11 +29,14 @@
 - Desenvolvimento com Angular
 - Trabalho em equipe
 
+[![Celinhodaltro's GitHub stats](https://github-readme-stats.vercel.app/api?username=celinhodaltro)](https://github.com/celinhodaltro/github-readme-stats)
+
+
 
 ## 📫 Informações de Contato
 **Email:** celinhodaltro@gmail.com  
 **LinkedIn:** [linkedin.com/in/joaomarcelomarques](https://www.linkedin.com/in/joaomarcelomarques)  
 **Telefone:** 71 99283-4507
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/celinhodaltro/github-readme-stats)
+
 
