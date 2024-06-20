@@ -28,7 +28,7 @@
 - Construção de APIs
 - Desenvolvimento com Angular
 - Trabalho em equipe
-- 
+
 
 ## 📫 Informações de Contato
 **Email:** celinhodaltro@gmail.com  
