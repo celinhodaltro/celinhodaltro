@@ -4,18 +4,18 @@
 
 
 ### DivTech ###
-**Cargo:** Desenvolvedor (Estagio)
-**Período:** Maio (2021) - Maio (2022).
+**Cargo:** Desenvolvedor (Estagio).<br>
+**Período:** Maio (2021) - Maio (2022).<br>
 **Descrição:** Experiência em desenvolvimento de sistemas ASP.NET, abrangendo todo o ciclo de vida do projeto..
 
 ### Gclaims ###
-**Cargo:** Desenvolvedor.  
-**Período:** Maio (2022) - Março (2024).  
+**Cargo:** Desenvolvedor.  <br>
+**Período:** Maio (2022) - Março (2024).  <br>
 **Descrição:** Desenvolvimento de projetos que envolvem tecnologias .NET, Angular e ASP.NET. Minhas atribuições abrangem a construção de APIs e o desenvolvimento/manutenção de sistemas.
 
 ### Produs ###
-**Cargo:** Analista de sistemas.
-**Período:** Maio (2024) - Atual.  
+**Cargo:** Analista de sistemas.<br>
+**Período:** Maio (2024) - Atual.  <br>
 **Descrição:** Desenvolvimento em projetos relacionados á geoinformatica, suporte á projetos legados, refatoração e atualização de projetos.
 
 
