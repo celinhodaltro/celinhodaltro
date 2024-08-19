@@ -6,7 +6,7 @@
 ### DivTech ###
 **Cargo:** Desenvolvedor
 **Período:** Maio (2021) - Maio (2022).
-**Descrição:** Experiência em desenvolvimento de sistemas ASP.NET, abrangendo todo o ciclo de vida do projeto, desde a concepção e modelagem do banco de dados até a entrega final do produto.
+**Descrição:** Experiência em desenvolvimento de sistemas ASP.NET, abrangendo todo o ciclo de vida do projeto..
 
 ### Gclaims ###
 **Cargo:** Desenvolvedor.  
