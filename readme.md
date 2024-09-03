@@ -35,9 +35,7 @@
 
 ## 📫 Informações de Contato
   <a href = "mailto:celinhodaltro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/celinhodaltro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-**Email:** celinhodaltro@gmail.com  
-**LinkedIn:** [linkedin.com/in/joaomarcelomarques](https://www.linkedin.com/in/joaomarcelomarques)  
+  <a href="https://www.linkedin.com/in/joaomarcelomarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 **Telefone:** 71 99283-4507
 
 
