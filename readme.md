@@ -19,7 +19,7 @@
 
 
 
-##Habilidades:
+## Habilidades:
   <img align="center" alt="Celinho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Celinho-Blazor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg">
   <img align="center" alt="Celinho-AngulaJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
