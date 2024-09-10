@@ -13,10 +13,9 @@
 </div>
 
 ## 📊 Estatísticas do GitHub:
+| <a href="https://github.com/celinhodaltro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CeloDaltro's github stats" /></a> | <a href="https://github.com/celinhodaltro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinhodaltro&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/celinhodaltro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celinhodaltro&repo=github-readme-stats&theme=buefy" />
-</a>
 
 ## 📫 Informações de Contato
   <a href = "mailto:celinhodaltro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
