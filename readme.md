@@ -13,8 +13,10 @@
 </div>
 
 ## 📊 Estatísticas do GitHub:
-[![Celinhodaltro's GitHub stats](https://github-readme-stats.vercel.app/api?username=celinhodaltro)](https://github.com/celinhodaltro/github-readme-stats)
 
+<a href="https://github.com/celinhodaltro/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celinhodaltro&repo=github-readme-stats&theme=buefy" />
+</a>
 
 ## 📫 Informações de Contato
   <a href = "mailto:celinhodaltro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
