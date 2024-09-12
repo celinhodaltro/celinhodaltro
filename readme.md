@@ -1,41 +1,63 @@
-# Olá! Eu sou João Marcelo Daltro Marques 👋
+
+###
+
+<h1 align="center">João Marcelo daltro Marques </h1>
+
+### 
+<h2 align="left"> 🛠 Sobre mim: </h2>
+<p>
+  Sou um profissional apaixonado por projetos inovadores e tenho habilidades criativas para implementá-los com sucesso. Na minha abordagem de codificação, sou paciente e gosto de me desafiar constantemente, sempre em busca de soluções eficientes. Sou dedicado e valorizo o aprendizado contínuo, procurando sempre expandir meu conhecimento e aprimorar minhas habilidades.
+
+  Tenho mais de três anos de experiência como programador fullstack, com especialização em C#.NET. Durante esse tempo, desenvolvi soluções robustas e escaláveis, aprimorando meu conhecimento nessas tecnologias e me mantendo atualizado com as melhores práticas do setor.
+
+  Além disso, possuo habilidades sólidas como programador frontend, com domínio de Angular, HTML, CSS e JavaScript. Tenho experiência no desenvolvimento de interfaces interativas e responsivas, e utilizei o framework Angular para criar aplicativos web dinâmicos e intuitivos.
+</p>
+
+###
 
 
-## Habilidades:
-<div>
-  <img align="center" alt="Celinho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Celinho-Blazor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg">
-  <img align="center" alt="Celinho-AngulaJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Celinho-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Celinho-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Celinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Celinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<h2 align="left"> 🛠 Habilidades e Ferramentas </h2>
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
-## 📊 Estatísticas do GitHub:
-| <a href="https://github.com/celinhodaltro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=celinhodaltro" alt="CeloDaltro's github stats" /></a>  | <a href="https://github.com/celinhodaltro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinhodaltro&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+###
+
+<h2 align="left">🔥 Meu Status :</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=celinhodaltro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
-## 📫 Informações de Contato
-  <a href = "mailto:celinhodaltro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaomarcelomarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<h2 align="left">Contate-me :</h2>
 
-## 🛠️ Experiência Profissional: 
-  
-## DivTech ##
-**Cargo:** Desenvolvedor (Estagio).<br>
-**Período:** Maio (2021) - Maio (2022).<br>
-**Descrição:** Experiência em desenvolvimento de sistemas ASP.NET, abrangendo todo o ciclo de vida do projeto..
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-## Gclaims ##
-**Cargo:** Desenvolvedor.  <br>
-**Período:** Maio (2022) - Março (2024).  <br>
-**Descrição:** Desenvolvimento de projetos que envolvem tecnologias .NET, Angular e ASP.NET. Minhas atribuições abrangem a construção de APIs e o desenvolvimento/manutenção de sistemas.
-
-## Produs ##
-**Cargo:** Analista de sistemas.<br>
-**Período:** Maio (2024) - Atual.  <br>
-**Descrição:** Desenvolvimento em projetos relacionados á geoinformatica, suporte á projetos legados, refatoração e atualização de projetos.
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=celinhodaltro.celinhodaltro&"  />
+</div>
