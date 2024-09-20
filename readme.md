@@ -4,7 +4,7 @@
 <h1 align="center">João Marcelo daltro Marques </h1>
 
 ### 
-<h2 align="left"> 🛠 Sobre mim: </h2>
+<h2 align="left"> 😃 Sobre mim: </h2>
 <p>
   Sou um profissional apaixonado por projetos inovadores e tenho habilidades criativas para implementá-los com sucesso. Na minha abordagem de codificação, sou paciente e gosto de me desafiar constantemente, sempre em busca de soluções eficientes. Sou dedicado e valorizo o aprendizado contínuo, procurando sempre expandir meu conhecimento e aprimorar minhas habilidades.
 
