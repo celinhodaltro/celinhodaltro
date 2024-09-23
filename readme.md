@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">João Marcelo daltro Marques </h1>
+<h1 align="center">João Marcelo Daltro Marques </h1>
 
 ### 
 <h2 align="left"> 😃 Sobre mim: </h2>
