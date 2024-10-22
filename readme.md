@@ -16,7 +16,7 @@
 ###
 
 
-<h2 align="left"> 🛠 Habilidades e Ferramentas </h2>
+<h2 align="left"> 🛠 Habilidades e Ferramentas: </h2>
 
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="left">🔥 Meu Status :</h2>
+<h2 align="left">🔥 Meu Status:</h2>
 
 ###
 
