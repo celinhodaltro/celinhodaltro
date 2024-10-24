@@ -3,13 +3,18 @@
 
 <h1 align="center">João Marcelo Daltro Marques </h1>
 
-###
-<h2>O que estou fazendo?</h2>
-- 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS) <br/>
-- 🔭 Estou desenvolvendo o projeto: [Server-Online](https://github.com/celinhodaltro/Server-Online)
+
 
 ### 
 <h2 align="left"> 😃 Sobre mim: </h2>
+
+
+<h3> O que estou fazendo? </h3>
+- 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS) <br/>
+- 🔭 Estou desenvolvendo o projeto: https://github.com/celinhodaltro/Server-Online
+  
+
+<h3>Quem eu sou?</h3>
 <p>
   Sou um profissional apaixonado por projetos inovadores e tenho habilidades criativas para implementá-los com sucesso. Na minha abordagem de codificação, sou paciente e gosto de me desafiar constantemente, sempre em busca de soluções eficientes. Sou dedicado e valorizo o aprendizado contínuo, procurando sempre expandir meu conhecimento e aprimorar minhas habilidades.
 
