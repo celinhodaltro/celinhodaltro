@@ -5,7 +5,7 @@
 
 ###
 <h2>O que estou fazendo?</h2>
-- 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS)
+- 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS) <br/>
 - 🔭 Estou desenvolvendo o projeto: [Server-Online](https://github.com/celinhodaltro/Server-Online)
 
 ### 
