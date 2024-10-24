@@ -8,6 +8,7 @@
 ### 
 <h2 align="left"> 😃 Sobre mim: </h2>
 
+<br/>
 
 ###
 <h3>Quem eu sou?</h3>
@@ -19,15 +20,20 @@
   Além disso, possuo habilidades sólidas como programador frontend, com domínio de Angular, HTML, CSS e JavaScript. Tenho experiência no desenvolvimento de interfaces interativas e responsivas, e utilizei o framework Angular para criar aplicativos web dinâmicos e intuitivos.
 </p>
 
+<br/>
+
 <h3> O que estou fazendo? </h3>
 - 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS) <br/>
 - 🔭 Estou desenvolvendo o projeto: https://github.com/celinhodaltro/Server-Online
   
 
 ###
+<br/>
+<br/>
 
 
 <h2 align="left"> 🛠 Habilidades e Ferramentas: </h2>
+<br/>
 
 
 <div align="center">
@@ -51,6 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="lua logo"  />
 </div>
+<br/>
 
 ###
 
