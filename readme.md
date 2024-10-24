@@ -9,11 +9,7 @@
 <h2 align="left"> 😃 Sobre mim: </h2>
 
 
-<h3> O que estou fazendo? </h3>
-- 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS) <br/>
-- 🔭 Estou desenvolvendo o projeto: https://github.com/celinhodaltro/Server-Online
-  
-
+###
 <h3>Quem eu sou?</h3>
 <p>
   Sou um profissional apaixonado por projetos inovadores e tenho habilidades criativas para implementá-los com sucesso. Na minha abordagem de codificação, sou paciente e gosto de me desafiar constantemente, sempre em busca de soluções eficientes. Sou dedicado e valorizo o aprendizado contínuo, procurando sempre expandir meu conhecimento e aprimorar minhas habilidades.
@@ -22,6 +18,11 @@
 
   Além disso, possuo habilidades sólidas como programador frontend, com domínio de Angular, HTML, CSS e JavaScript. Tenho experiência no desenvolvimento de interfaces interativas e responsivas, e utilizei o framework Angular para criar aplicativos web dinâmicos e intuitivos.
 </p>
+
+<h3> O que estou fazendo? </h3>
+- 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS) <br/>
+- 🔭 Estou desenvolvendo o projeto: https://github.com/celinhodaltro/Server-Online
+  
 
 ###
 
