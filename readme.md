@@ -3,6 +3,11 @@
 
 <h1 align="center">João Marcelo Daltro Marques </h1>
 
+###
+<h2>O que estou fazendo?</h2>
+- 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS)
+- 🔭 Estou desenvolvendo o projeto: [Server-Online](https://github.com/celinhodaltro/Server-Online)
+
 ### 
 <h2 align="left"> 😃 Sobre mim: </h2>
 <p>
