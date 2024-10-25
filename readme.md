@@ -24,7 +24,7 @@
 
 <h3> O que estou fazendo? </h3>
 - 🔭 Atualmente trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS) <br/>
-- 🔭 Estou desenvolvendo o projeto: https://github.com/celinhodaltro/Server-Online
+- 🔭 Atualmente desenvolvendo o projeto: https://github.com/celinhodaltro/Server-Online
   
 
 ###
