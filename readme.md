@@ -63,14 +63,6 @@
 
 <h2 align="left">🔥 Meu Status:</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=celinhodaltro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-
 <h2 align="left">💻 Contate-me :</h2>
 
 <div align="center">
