@@ -32,7 +32,7 @@
 <br/>
 
 
-<h2 align="left"> 🛠 Habilidades e Ferramentas: </h2>
+<h2 align="left"> 🛠 Habilidades: </h2>
 <br/>
 
 
