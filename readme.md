@@ -60,8 +60,6 @@
 
 ###
 
-<h2 align="left">🔥 Meu Status:</h2>
-
 <h2 align="left">💻 Contate-me :</h2>
 
 <div align="center">
