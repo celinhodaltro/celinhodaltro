@@ -23,7 +23,7 @@
 <br/>
 
 <h3> O que estou fazendo? </h3>
-- 💻 Trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia (PRODUS) <br/>
+- 💻 Trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia <br/>
   
 
 ###
