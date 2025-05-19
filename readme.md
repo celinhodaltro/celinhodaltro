@@ -3,7 +3,11 @@
 
 <h1 align="center">João Marcelo Daltro Marques </h1>
 
-
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ### 
 <h2 align="left"> 😃 Sobre mim: </h2>
@@ -22,11 +26,7 @@
 
 <br/>
 
-<h3> O que estou fazendo? </h3>
-- 💻 Trabalho na Conder - Companhia de Desenvolvimento Urbano do Estado da Bahia <br/>
-  
 
-###
 <br/>
 <br/>
 
