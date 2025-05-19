@@ -71,9 +71,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=celinhodaltro.celinhodaltro&"  />
 </div>
 
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/celinhodaltro/celinhodaltro/output/snake.svg" alt="Snake animation" />
-
-###
