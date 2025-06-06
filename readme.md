@@ -39,10 +39,9 @@ Clean Code, SOLID, DDD, Arquitetura em Camadas, Microserviços, Scrum, GitFlow
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&show_icons=true&theme=transparent&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&layout=compact&langs_count=8&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="languages graph"  />
 </div>
-
 ---
 
 ### 📫 Contato
