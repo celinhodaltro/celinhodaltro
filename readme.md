@@ -1,73 +1,65 @@
-
-###
-
-<h1 align="center">João Marcelo Daltro Marques </h1>
-
-### 
-<h2 align="left"> 😃 Sobre mim: </h2>
-
-<br/>
-
-###
-<h3>Quem eu sou?</h3>
-<p>
-  Sou um profissional apaixonado por projetos inovadores e tenho habilidades criativas para implementá-los com sucesso. Na minha abordagem de codificação, sou paciente e gosto de me desafiar constantemente, sempre em busca de soluções eficientes. Sou dedicado e valorizo o aprendizado contínuo, procurando sempre expandir meu conhecimento e aprimorar minhas habilidades.
-
-  Tenho mais de três anos de experiência como programador fullstack, com especialização em C#.NET. Durante esse tempo, desenvolvi soluções robustas e escaláveis, aprimorando meu conhecimento nessas tecnologias e me mantendo atualizado com as melhores práticas do setor.
-
-  Além disso, possuo habilidades sólidas como programador frontend, com domínio de Angular, HTML, CSS e JavaScript. Tenho experiência no desenvolvimento de interfaces interativas e responsivas, e utilizei o framework Angular para criar aplicativos web dinâmicos e intuitivos.
+<h1 align="center">👨‍💻 João Marcelo Daltro Marques</h1>
+<p align="center">
+  <i>.NET Developer | Fullstack | Blazor | Angular | GIS Solutions</i><br/>
+  <a href="mailto:marcelodaltromarques@gmail.com">marcelodaltromarques@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/joaomarcelomarques">LinkedIn</a> • 
+  <a href="https://celinhodaltro.github.io/Portifolio/">Portfólio</a>
 </p>
 
-<br/>
+---
 
+### 🧑‍💼 Sobre mim
 
-<br/>
-<br/>
+Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que realmente fazem a diferença. Atuo principalmente com .NET, Blazor, Angular e bancos de dados relacionais. Tenho experiência sólida em todas as etapas do desenvolvimento — desde a modelagem de dados até a entrega final, com foco em qualidade, performance e manutenibilidade.
 
+- 💼 Atualmente atuando como **Analista de Sistemas na CONDER/PRODUS**
+- 🚀 Implantação de cultura DevOps, automação de pipelines e CI/CD
+- 🗺️ Especialista em soluções GIS com dados geográficos (PostgreSQL, Oracle)
+- 🔁 Refatoração de sistemas legados e criação de novas aplicações robustas
 
-<h2 align="left"> 🛠 Habilidades: </h2>
-<br/>
+---
 
+### 🛠️ Habilidades Técnicas
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="lua logo"  />
-</div>
-<br/>
+**Linguagens:**  
+C#, JavaScript, HTML, CSS, Python, C, C++, Lua
 
-###
+**Frameworks e Tecnologias:**  
+ASP.NET, .NET 6/7/8/9, Blazor, Angular, React, NetCord, Entity Framework, Dapper
 
-<h2 align="left">💻 Contate-me :</h2>
+**Bancos de Dados:**  
+SQL Server, PostgreSQL, MySQL, Oracle, SQLite
+
+**Ferramentas e Práticas:**  
+Git, GitHub, GitLab, Docker, Swagger, Visual Studio, VS Code  
+Clean Code, SOLID, DDD, Arquitetura em Camadas, Microserviços, Scrum, GitFlow
+
+---
+
+### 📊 Estatísticas GitHub
 
 <div align="center">
-  <a href = "mailto:celinhodaltro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaomarcelomarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&show_icons=true&theme=transparent&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&layout=compact&langs_count=8&theme=transparent" height="150" />
 </div>
+
+---
+
+### 📫 Contato
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=celinhodaltro.celinhodaltro&"  />
+  <a href="mailto:marcelodaltromarques@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joaomarcelomarques"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="languages graph"  />
-</div>
+---
 
+### 🌐 Visite meu portfólio
+
+🧭 [https://celinhodaltro.github.io/Portifolio/](https://celinhodaltro.github.io/Portifolio/)
+
+---
+
+<p align="center">
+  <i>“Código limpo é como poesia bem escrita: fácil de ler, difícil de esquecer.”</i>
+</p>
