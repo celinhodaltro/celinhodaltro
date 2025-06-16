@@ -10,7 +10,7 @@
 
 ### 🧑‍💼 Sobre mim
 
-Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que realmente fazem a diferença. Atuo principalmente com .NET, Blazor, Angular e bancos de dados relacionais. Tenho experiência sólida em todas as etapas do desenvolvimento — desde a modelagem de dados até a entrega final, com foco em qualidade, performance e manutenibilidade.
+Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que realmente fazem a diferença. Atuo principalmente com .NET, Blazor, Angular e bancos de dados relacionais. Tenho experiência sólida em todas as etapas do desenvolvimento, desde a modelagem de dados até a entrega final, com foco em qualidade, performance e manutenibilidade.
 
 - 💼 Atualmente atuando como **Analista de Sistemas na CONDER/PRODUS**
 - 🚀 Implantação de cultura DevOps, automação de pipelines e CI/CD
