@@ -47,9 +47,10 @@ Clean Code, SOLID, DDD, Arquitetura em Camadas, Microserviços, Scrum, GitFlow
 
 ### 📫 Contato
 
+
 <div align="center">
   <a href="mailto:marcelodaltromarques@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/joaomarcelomarques"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=joaomarcelomarques"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
