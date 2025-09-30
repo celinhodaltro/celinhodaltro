@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 João Marcelo Daltro Marques</h1>
+<h1 align="center">João Marcelo Daltro Marques</h1>
 <p align="center">
   <i>.NET Developer | Fullstack | Blazor | Angular | GIS Solutions</i><br/>
   <a href="mailto:marcelodaltromarques@gmail.com">marcelodaltromarques@gmail.com</a> • 
