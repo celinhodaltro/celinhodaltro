@@ -1,6 +1,6 @@
 <h1 align="center">João Marcelo Daltro Marques</h1>
 <p align="center">
-  <i>.NET Developer | Fullstack | Blazor | Angular | GIS Solutions</i><br/>
+  <i>.NET Developer | Blazor | Angular | React | GIS Solutions</i><br/>
   <a href="mailto:marcelodaltromarques@gmail.com">marcelodaltromarques@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/joaomarcelomarques">LinkedIn</a> • 
   <a href="https://celinhodaltro.github.io/Portifolio/">Portfólio</a>
