@@ -57,7 +57,13 @@ Clean Code, SOLID, DDD, Arquitetura em Camadas, Microserviços, Scrum, GitFlow
 
 ### 🌐 Visite meu portfólio
 
-🧭 [https://celinhodaltro.github.io/Portifolio/](https://celinhodaltro.github.io/Portifolio/)
+<p align="center">
+  <a href="https://celinhodaltro.github.io/Portifolio/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🌐%20Visite%20meu%20Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Portfólio" />
+  </a>
+</p>
 
 ---
 
