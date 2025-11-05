@@ -76,5 +76,5 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
 
 
 <p align="center">
-  <i>“Código limpo é como poesia bem escrita: fácil de ler, difícil de esquecer.”</i>
+  <i>“Os filósofos limitaram-se a interpretar o mundo de diversas maneiras; o que importa é transformá-lo”</i>
 </p>
