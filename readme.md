@@ -74,6 +74,7 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="languages graph"  />
 </div>
 
+---
 
 <p align="center">
   <i>“Os filósofos limitaram-se a interpretar o mundo de diversas maneiras; o que importa é transformá-lo”</i>
