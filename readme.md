@@ -21,27 +21,27 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
 
 ### 🛠️ Habilidades Técnicas
 
-**Linguagens:**  
-C#, JavaScript, HTML, CSS, Python, C, C++, Lua
+#### 💻 Linguagens:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,js,typescript,lua" />
+</p>
 
-**Frameworks e Tecnologias:**  
-ASP.NET, .NET 6/7/8/9, Blazor, Angular, React, NetCord, Entity Framework, Dapper
+#### ⚙️ Frameworks e Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,react" />
+</p>
 
-**Bancos de Dados:**  
-SQL Server, PostgreSQL, MySQL, Oracle, SQLite
 
-**Ferramentas e Práticas:**  
-Git, GitHub, GitLab, Docker, Swagger, Visual Studio, VS Code  
-Clean Code, SOLID, DDD, Arquitetura em Camadas, Microserviços, Scrum, GitFlow
+#### 🗄️ Bancos de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
 
----
+#### 🧰 Ferramentas e Práticas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,docker" />
+</p>
 
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="languages graph"  />
-</div>
 
 ---
 
@@ -66,6 +66,14 @@ Clean Code, SOLID, DDD, Arquitetura em Camadas, Microserviços, Scrum, GitFlow
 </p>
 
 ---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="languages graph"  />
+</div>
+
 
 <p align="center">
   <i>“Código limpo é como poesia bem escrita: fácil de ler, difícil de esquecer.”</i>
