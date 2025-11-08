@@ -3,7 +3,7 @@
   <i>.NET Developer | Blazor | Angular | React | GIS Solutions</i><br/>
   <a href="mailto:marcelodaltromarques@gmail.com">marcelodaltromarques@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/joaomarcelomarques">LinkedIn</a> • 
-  <a href="https://celinhodaltro.github.io/Portifolio/">Portfólio</a>
+  <a href="https://celinhodaltro.github.io/Portfolio/">Portfólio</a>
 </p>
 
 ---
@@ -58,7 +58,7 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
 ### 🌐 Visite meu portfólio
 
 <p align="center">
-  <a href="https://celinhodaltro.github.io/Portifolio/" target="_blank">
+  <a href="https://celinhodaltro.github.io/Portfolio/" target="_blank">
     <img 
       src="https://img.shields.io/badge/🌐%20Visite%20meu%20Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" 
       alt="Portfólio" />
