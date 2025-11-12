@@ -69,13 +69,22 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
 
 ### 📊 Estatísticas GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celinhodaltro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&include_all_commits=true" height="150" alt="languages graph"  />
-</div>
+<p>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=celinhodaltro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
----
 
-<p align="center">
-  <i>“Os filósofos limitaram-se a interpretar o mundo de diversas maneiras; o que importa é transformá-lo”</i>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinhodaltro&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=10" 
+  />
+
 </p>
+
+
