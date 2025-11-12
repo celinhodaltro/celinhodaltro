@@ -71,7 +71,7 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
 
 <p>
 <img 
-  align="left" 
+  align="center" 
   alt="GitHub Stats" 
   height="200" 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=celinhodaltro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -79,7 +79,7 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
 
 
 <img 
-  align="left" 
+  align="center" 
   alt="GitHub Stats" 
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinhodaltro&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=10" 
@@ -87,4 +87,9 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
 
 </p>
 
+---
 
+
+<p align="center">
+  <i>“Os filósofos limitaram-se a interpretar o mundo de diversas maneiras; o que importa é transformá-lo”</i>
+</p>
