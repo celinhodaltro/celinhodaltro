@@ -69,10 +69,24 @@ Sou um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas que
 
 ### 📊 Estatísticas GitHub
 
-<div align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=celinhodaltro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-</div>
-
+<table align="center">
+  <tr>
+    <td>
+      <img
+        height="180"
+        src="https://github-readme-stats-fast.vercel.app/api?username=celinhodaltro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        height="180"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=celinhodaltro&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
